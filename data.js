@@ -10,4 +10,5 @@ const data = [
   },
 ];
 
-module.exports = {data};
+export default data;
+// module.exports = {data};
